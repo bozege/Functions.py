@@ -1,4 +1,4 @@
-#This function returns sum of all the primes which are below the given limit.
+#This function returns sum of all the primes which are below the given limit
 def sumofprimesbelow(n):
     j = 0
     sum = 0
