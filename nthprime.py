@@ -1,4 +1,4 @@
-#This function returns the nth prime number.
+#This function returns the nth prime number
 def nthprime():
     n = int(input("Which prime number do you need?: "))
     primes = [2,3,5,7]
