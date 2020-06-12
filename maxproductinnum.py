@@ -1,4 +1,4 @@
-#This function calculates the max product of adjacent n characters in the given number.
+#This function calculates the max product of adjacent n characters in the given number
    
 def maxproductinnum():
     num = int(input("Give me a number: "))
